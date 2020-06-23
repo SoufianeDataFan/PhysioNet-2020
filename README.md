@@ -28,8 +28,8 @@ You should find all files in `data` dir. Final dir tree shoudl be like this :
 
 ```
 PhysioNet/
+│── data
 ├── physionet-challenge-2020-12-lead-ecg-public
-│   ├── data
 │   ├── Training_2
 │   ├── Training_PTB
 │   ├── Training_StPetersburg
