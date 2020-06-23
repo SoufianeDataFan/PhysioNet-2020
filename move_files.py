@@ -6,7 +6,6 @@ import shutil
 # Parent_dir/
 # ├── data
 # ├── physionet-challenge-2020-12-lead-ecg-public
-# │   ├── data
 # │   ├── Training_2
 # │   ├── Training_PTB
 # │   ├── Training_StPetersburg
