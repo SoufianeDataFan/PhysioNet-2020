@@ -5,10 +5,7 @@ For now, this repo contains only scripts to help download data of the challenge 
 
 ### Prerequisites
 
-You'll need `gs` google cloud sdk installed on your machine. If you don't have it, just run this commands on your
-
-
-- linux machine
+You'll need `gs` google cloud sdk installed on your machine. If you don't have it, run this commands on your terminal
 ```
 curl https://sdk.cloud.google.com | bash
 exec -l $SHELL
