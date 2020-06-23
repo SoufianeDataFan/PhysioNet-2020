@@ -24,4 +24,18 @@ git clone https://github.com/SoufianeDataFan/PhysioNet-2020.git ; cd PhysioNet-2
 bash download_data_backets.sh
 ```
 
-You should find all files in `data` dir. 
+You should find all files in `data` dir. Final dir tree shoudl be like this : 
+
+```
+PhysioNet/
+├── data
+├── physionet-challenge-2020-12-lead-ecg-public
+│   ├── data
+│   ├── Training_2
+│   ├── Training_PTB
+│   ├── Training_StPetersburg
+│   ├── Training_WFDB
+│   └── WFDB
+```
+
+Feel free to remove `physionet-challenge-2020-12-lead-ecg-public` because all your files are moved in `data` dir
