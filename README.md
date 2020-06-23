@@ -37,4 +37,4 @@ PhysioNet/
 │   └── WFDB
 ```
 
-Feel free to remove `physionet-challenge-2020-12-lead-ecg-public` because all your files are moved in `data` dir
+Feel free to remove other files in `physionet-challenge-2020-12-lead-ecg-public` because all your files are moved in `data` dir
